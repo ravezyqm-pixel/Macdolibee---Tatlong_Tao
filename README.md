@@ -1,4 +1,4 @@
-# quaicmo
+# Macdolibee
 A restaurant carting system using Java from Gordon College BSIT 1E (Macdolibee)
 
 This is a group project from Gordon College base computer college studies, project entitled A restaurant Carting System using Java 
