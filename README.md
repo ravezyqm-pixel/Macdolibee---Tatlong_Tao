@@ -7,5 +7,5 @@ Quiamco, John Rave
 Ramos, Dancel Andrey
 Punla, Mary Rose
 
-Special Note: I have unable to upload a fixed file in the folder, so after testing or using, they're may be some adjustment transfering folders into the correct distinations.
-For the "build" folder
+Special Note: I am not able to upload the images of every dish/foods, in certain error that it won't let me upload it even 1 by 1
+
